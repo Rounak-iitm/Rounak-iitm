@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounakgupta119@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rounak-gupta-a15380289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2A4D?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2A4D?style=for-the-badge&logo=vercel&logoColor=white)](https://rounak-iitm.github.io/portfolio/)
 
 <br/>
 
@@ -25,6 +25,7 @@
 - 🔬 Former **Research Intern** @ IIIT Agartala — built predictive AI/ML models for 5G communication networks
 - 🧠 Core focus: **Deep Learning · LLM/VLM Inference · Distributed Data Stacks**
 - 🏆 1st Place, **Robo Rumble** — robotics competition jointly organized by IIT Kanpur & IIT Madras
+- 🌐 Portfolio: **[rounak-iitm.github.io/portfolio](https://rounak-iitm.github.io/portfolio/)**
 - 📫 Reach me at **rounakgupta119@gmail.com**
 
 <br/>
