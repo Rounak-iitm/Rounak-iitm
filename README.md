@@ -8,7 +8,11 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rounakgupta119@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rounak-gupta-a15380289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2A4D?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rounak-iitm&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -20,6 +24,7 @@
 - 💼 **Junior AI/ML & Data Engineering Analyst** @ 9Envoy Tech — optimizing model-serving infrastructure in secure Linux environments
 - 🔬 Former **Research Intern** @ IIIT Agartala — built predictive AI/ML models for 5G communication networks
 - 🧠 Core focus: **Deep Learning · LLM/VLM Inference · Distributed Data Stacks**
+- 🏆 1st Place, **Robo Rumble** — robotics competition jointly organized by IIT Kanpur & IIT Madras
 - 📫 Reach me at **rounakgupta119@gmail.com**
 
 <br/>
@@ -41,9 +46,9 @@
 **Model Serving & AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logo=vllm&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![ZenML](https://img.shields.io/badge/ZenML-1A1A1A?style=flat-square&logo=zenml&logoColor=white)
 
@@ -54,9 +59,9 @@
 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-FCE229?style=flat-square&logo=apache-spark&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 </td>
@@ -66,9 +71,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
